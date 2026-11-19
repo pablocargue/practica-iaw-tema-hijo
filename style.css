@@ -1,0 +1,24 @@
+/*
+Theme Name: pabcar-hijo
+Template: twentytwentyfive
+Description: Tema hijo de Twenty Twenty-Five para la Práctica 4
+Author: Pablo Carmona Guerrero
+Version: 1.1.0
+*/
+
+/* Estilos para la caja de contacto al final de las entradas */
+.caja-contacto-entrada {
+    margin-top: 2em;
+    padding: 1.5em;
+    background-color: #F7F4EC;
+    border-left: 4px solid #0B4F6C;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.caja-contacto-entrada a {
+    color: #0B4F6C;
+    text-decoration: underline;
+}
+

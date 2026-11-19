@@ -1,0 +1,46 @@
+{
+  "version": 3,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "name": "Color Primario",
+          "slug": "primario",
+          "color": "#0B4F6C"
+        },
+        {
+          "name": "Color Secundario",
+          "slug": "secundario",
+          "color": "#F7F4EC"
+        },
+        {
+          "name": "Color Destacado",
+          "slug": "destacado",
+          "color": "#E76F51"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#F7F4EC",
+      "text": "#1A1A1A"
+    },
+    "elements": {
+      "link": {
+        "color": {
+          "text": "#0B4F6C"
+        }
+      },
+      "heading": {
+        "color": {
+          "text": "#0B4F6C"
+        },
+        "typography": {
+          "fontFamily": "Georgia, serif"
+        }
+      }
+    }
+  }
+}
+
